@@ -1,0 +1,9 @@
+{
+    "prefix": "me!",     
+    "embedcolor": "#00ccff", 
+    "dev": "803175369175465984",       
+    "token": "ODA2NzEyOTI4MTUyODQ2Mzc2.YBtb9g.O6uu1tdqG0zqgU1BXK9ykboenNk", 
+    "database": "mongodb://localhost:27017",
+    "AME_API": "4d9b9af6038bdc8e6eb2cf37116f59eabc83989a3183c8c6f06320b165854af68000555d61b40ec899ee95ecc7d91cc9d15d2323946c14e68d1475bcd18c6e96"     
+}
+
